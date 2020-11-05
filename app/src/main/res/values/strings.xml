@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">list</string>
+    <string name="novo_produto">novo produto</string>
+    <string name="eventos">Eventos</string>
+    <string name="textview">TextView</string>
+    <string name="nome">Nome</string>
+</resources>
